@@ -2,9 +2,11 @@
 layout: default
 ---
 
-## Workshop Details
+<div class="content-section">
+<div class="inline-wrapper">
+<h2 id="workshop-details">Workshop Details</h2>
 
-Welcome to the **ICRA 2025** Workshop on Active Perception and Robotic Information Gathering!
+Welcome to the <b>ICRA 2025</b> Workshop on Active Perception and Robotic Information Gathering!
 
 The ability to actively gather and perceive relevant information is a key requirement for autonomous robots.
 Unlike traditional approaches that rely on passive data collection, active perception empowers robots to 
@@ -22,30 +24,41 @@ behavioral reasoning and information theory. Discussions will also highlight the
 learning methods to enable continuous learning and adaptation over time. Participants from diverse 
 backgrounds are invited to attend to highlight the core synergies in the information gathering 
 problem across application domains.
+</div>
+</div>
 
-## Call for Papers
+<div class="content-section">
+<div class="inline-wrapper">
+<h2 id="call-for-papers">Call for Papers</h2>
 
-### Topics
+<h3>Topics</h3>
 
-- Active Perception
-- Planning
-- Information gathering
-- Exploration
-- ...
+<ul>
+    <li>Active Perception</li>
+    <li>Planning</li>
+    <li>Information gathering</li>
+    <li>Exploration</li>
+    <li>...</li>
+</ul>
 
-### Submission
+<h3>Submission</h3>
 
 TODO
 
-### Awards
+<h3>Awards</h3>
 
 TODO
 
-## Invited Speakers
+</div>
+</div>
 
-<div id="speakers-list">
+<div class="content-section">
+<div class="inline-wrapper">
+<h2 id="invited-speakers">Invited Speakers</h2>
+
+<div class="people-list">
 {% for speaker in site.speakers %}
-    <div class="single-speaker">
+    <div class="single-person">
         <ul>
             <li>
                 <img alt="{{ speaker.name }}" src="{{ speaker.photo_url }}">
@@ -60,42 +73,167 @@ TODO
     </div>
 {% endfor %}
 </div>
-    
-## Invited Panelist
+</div>
+</div>
 
-- TODO
+<div class="content-section">
+<div class="inline-wrapper">
+<h2 id="invited-panelist">Invited Panelist</h2>
 
-## Workshop Organizers
+<div class="people-list">
+{% for panelist in site.panelists %}
+    <div class="single-person">
+        <ul>
+            <li>
+                <img alt="{{ panelist.name }}" src="{{ panelist.photo_url }}">
+            </li>
+            <li>
+                <a href="{{ panelist.url | relative_url }}">{{ panelist.name }}</a>
+            </li>
+            <li>{{ panelist.role }}</li> 
+            <li>{{ panelist.organization }}</li> 
+            <li>{{ panelist.country }}</li>
+        </ul>
+    </div>
+{% endfor %}
+</div>
+</div>
+</div>
 
-- Marija Popović, Assistant Professor, Delft University of Technology
-- Carlos Nieto-Granda, Postdoctoral Fellow at DEVCOM Army Research Laboratory
-- Aamodh Suresh, Postdoctoral Fellow at DEVCOM Army Research Laboratory
-- Julius Rückin, PhD Student, University of Bonn
-- Mykel Kochenderfer, Associate professor, Stanford University
-- Muhammad Fadhil Ginting, PhD Student, Stanford University
+<div class="content-section">
+<div class="inline-wrapper">
+<h2 id="workshop-organizers">Workshop Organizers</h2>
 
+<div class="people-list">
+{% for organizer in site.organizers %}
+    <div class="single-person">
+        <ul>
+            <li>
+                <img alt="{{ organizer.name }}" src="{{ organizer.photo_url }}">
+            </li>
+            <li>
+                <a href="{{ organizer.url | relative_url }}">{{ organizer.name }}</a>
+            </li>
+            <li>{{ organizer.role }}</li> 
+            <li>{{ organizer.organization }}</li> 
+            <li>{{ organizer.country }}</li>
+        </ul>
+    </div>
+{% endfor %}
+</div>
+
+<span style="font-weight: bold; text-align: center; display: block; margin-top: 20px;">
 Contact us at: some email address
+</span>
 
-## Workshop Program
+</div>
+</div>
 
-| Time               | Title                                  | Speaker     |
-|--------------------|----------------------------------------|-------------|
-| 08:45 - 09:00 AM   | Welcome message and overview of the workshop | Organizers  |
-| 09:00 - 09:20 AM   | Talk                                   | TBD         |
-| 09:20 - 09:40 AM   | Talk                                   | TBD         |
-| 09:40 - 10:00 AM   | Talk                                   | TBD         |
-| 10:00 - 10:15 AM   | Coffee Break                           |             |
-| 10:15 - 10:35 AM   | Talk                                   | TBD         |
-| 10:35 - 11:05 AM   | Spotlight Talks                        |             |
-| 11:05 - 12:00 PM   | Poster Session                         |             |
-| 12:00 - 01:00 PM   | Lunch                                  |             |
-| 01:00 - 01:20 PM   | Talk                                   | TBD         |
-| 01:20 - 01:40 PM   | Talk                                   | TBD         |
-| 01:40 - 02:40 PM   | Panel Discussion                       |             |
-| 02:40 - 03:00 PM   | Coffee Break                           |             |
-| 03:00 - 03:20 PM   | Talk                                   | TBD         |
-| 03:20 - 03:40 PM   | Talk                                   | TBD         |
-| 03:40 - 04:00 PM   | Tea Break                              |             |
-| 04:00 - 04:20 PM   | Talk                                   | TBD         |
-| 04:20 - 04:40 PM   | Talk                                   | TBD         |
-| 04:40 - 05:00 PM   | Closing Remarks                        |             |
+<div class="content-section">
+<div class="inline-wrapper">
+<h2>Workshop Program</h2>
+
+<table>
+    <tr>
+        <th>Time</th>
+        <th>Title</th>
+        <th>Speaker</th>
+    </tr>
+    <tr>
+        <td>08:45 - 09:00 AM</td>
+        <td>Welcome message and overview of the workshop</td>
+        <td>Organizers</td>
+    </tr>
+    <tr>
+        <td>09:00 - 09:25 AM</td>
+        <td>Talk (Sensing)</td>
+        <td>TBD</td>
+    </tr>
+    <tr>
+        <td>09:25 - 09:50 AM</td>
+        <td>Talk (Sensing)</td>
+        <td>TBD</td>
+    </tr>
+    <tr>
+        <td>09:50 - 10:00 AM</td>
+        <td>Spotlight Talks</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>10:00 - 10:30 AM</td>
+        <td>Coffee Break and Posters</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>10:30 - 10:55 AM</td>
+        <td>Talk (Theory)</td>
+        <td>TBD</td>
+    </tr>
+    <tr>
+        <td>10:55 - 11:20 AM</td>
+        <td>Talk (Planning)</td>
+        <td>TBD</td>
+    </tr>
+    <tr>
+        <td>11:20 - 11:45 AM</td>
+        <td>Talk (Planning)</td>
+        <td>TBD</td>
+    </tr>
+    <tr>
+        <td>11:45 - 12:10 AM</td>
+        <td>Talk (Planning)</td>
+        <td>TBD</td>
+    </tr>
+    <tr>
+        <td>12:10 - 01:15 PM</td>
+        <td>Lunch</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>01:15 - 01:40 PM</td>
+        <td>Talk (Mapping)</td>
+        <td>TBD</td>
+    </tr>
+    <tr>
+        <td>01:40 - 02:05 PM</td>
+        <td>Talk (Mapping)</td>
+        <td>TBD</td>
+    </tr>
+    <tr>
+        <td>02:05 - 02:15 PM</td>
+        <td>Spotlight Talks</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>02:15 - 02:45 PM</td>
+        <td>Coffee Break and Posters</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>02:45 - 03:10 PM</td>
+        <td>Talk (Industry)</td>
+        <td>TBD</td>
+    </tr>
+    <tr>
+        <td>03:10 - 03:35 PM</td>
+        <td>Talk (Industry)</td>
+        <td>TBD</td>
+    </tr>
+    <tr>
+        <td>03:35 - 03:45 PM</td>
+        <td>Break</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>03:45 - 04:45 PM</td>
+        <td>Panel Discussion</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>04:45 - 05:00 PM</td>
+        <td>Closing Remarks</td>
+        <td></td>
+    </tr>
+</table>
+</div>
+</div>

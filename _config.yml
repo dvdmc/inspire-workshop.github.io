@@ -63,3 +63,61 @@ speakers:
     organization: University of California San Diego
     country: USA
     url: https://google.com
+
+panelists:
+  - name: Person A
+    photo_url: /assets/images/speakers/placeholder.jpg
+    role: Some role
+    organization: Some org
+    country: Some country
+    url: https://google.com
+  - name: Person B
+    photo_url: /assets/images/speakers/placeholder.jpg
+    role: Some role
+    organization: Some org
+    country: Some country
+    url: https://google.com
+  - name: Person C
+    photo_url: /assets/images/speakers/placeholder.jpg
+    role: Some role
+    organization: Some org
+    country: Some country
+    url: https://google.com
+
+organizers:
+  - name: Marija Popović
+    photo_url: /assets/images/speakers/placeholder.jpg
+    role: Assistant Professor
+    organization: Delft University of Technology
+    country: Netherlands
+    url: https://google.com
+  - name: Carlos Nieto-Granda
+    photo_url: /assets/images/speakers/placeholder.jpg
+    role: Postdoctoral Fellow
+    organization: DEVCOM Army Research Laboratory
+    country: USA
+    url: https://google.com
+  - name: Aamodh Suresh
+    photo_url: /assets/images/speakers/placeholder.jpg
+    role: Postdoctoral Fellow
+    organization: DEVCOM Army Research Laboratory
+    country: USA
+    url: https://google.com
+  - name: Julius Rückin
+    photo_url: /assets/images/speakers/placeholder.jpg
+    role: PhD Student
+    organization: University of Bonn
+    country: Germany
+    url: https://google.com
+  - name: Mykel Kochenderfer
+    photo_url: /assets/images/speakers/placeholder.jpg
+    role: Associate professor
+    organization: Stanford University
+    country: USA
+    url: https://google.com
+  - name: Muhammad Fadhil Ginting
+    photo_url: /assets/images/speakers/placeholder.jpg
+    role: PhD Student
+    organization: Stanford University
+    country: USA
+    url: https://google.com

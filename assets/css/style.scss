@@ -4,41 +4,58 @@
 @import 'jekyll-theme-cayman';
 
 #content {
-    max-width: 96rem;
+    max-width: 100%;
     text-align: justify;
+    padding: 0;
 }
 
 #content h1, h2 {
     text-align: center;
 }
 
-#content table {
+#content .content-section:nth-child(2n) {
+    background-color: #f4f7fa;
+}
+
+#content .content-section {
+    max-width: 100%;
+    padding: 30px 0;
+}
+
+.inline-wrapper {
+    max-width: 64em;
+    margin: 0 auto;
+}
+
+#content .content-section .inline-wrapper table {
+    width: auto;
     text-align: center;
     margin: 0 auto;
 }
 
-#speakers-list {
+.people-list {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
 }
 
-#speakers-list .single-speaker {
+.people-list .single-person {
     display: flex;
     width: 33%,
 }
 
-#speakers-list .single-speaker ul{
+.people-list .single-person ul{
     margin: 20px auto;
     text-align: center;
 }
 
-#speakers-list .single-speaker ul li{
+.people-list .single-person ul li{
     list-style: none;
 }
 
-#speakers-list .single-speaker ul li img{
+.people-list .single-person ul li img{
     margin-bottom: 10px;
-    width: 70%;
+    width: 100%;
+    max-width: 200px;
     border-radius: 50%;
 }
