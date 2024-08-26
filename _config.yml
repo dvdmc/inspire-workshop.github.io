@@ -1,5 +1,65 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-cayman
+markdown: kramdown
+title:
+  primary: "INSPIRE - ICRA 2025 Workshop on"
+  secondary: "Informative Sensing and Planning for Intelligent Robotic Exploration"
+description: "ICRA 2025 X - Room, Atlanta, US, 19th of May 2025, 08:30"
+show_downloads: false
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+speakers:
+  - name: Jen Jen Chung
+    photo_url: /assets/images/speakers/placeholder.jpg
+    role: Some role
+    organization: The University of Queensland
+    country: Australia
+    url: https://google.com
+  - name: Martin Saska
+    photo_url: /assets/images/speakers/placeholder.jpg
+    role: Some role
+    organization: Czech Technical University
+    country: Prague
+    url: https://google.com
+  - name: Nare Karapetyan
+    photo_url: /assets/images/speakers/placeholder.jpg
+    role: Some role
+    organization: Woods Hole Oceanographic Institute (WHOI)
+    country: USA
+    url: https://google.com
+  - name: Maren Bennewitz
+    photo_url: /assets/images/speakers/placeholder.jpg
+    role: Some role
+    organization: University of Bonn
+    country: Germany
+    url: https://google.com
+  - name: Antonella Barišić Kulaš
+    photo_url: /assets/images/speakers/placeholder.jpg
+    role: Some role
+    organization: University of Zagreb
+    country: Croatia
+    url: https://google.com
+  - name: Satoshi Tadakoro
+    photo_url: /assets/images/speakers/placeholder.jpg
+    role: Some role
+    organization: University of Tokyo
+    country: Japan
+    url: https://google.com
+  - name: Vandi Verma
+    photo_url: /assets/images/speakers/placeholder.jpg
+    role: Some role
+    organization: JPL NASA
+    country: USA
+    url: https://google.com
+  - name: Thomas E. Levy
+    photo_url: /assets/images/speakers/placeholder.jpg
+    role: Some role
+    organization: University of California San Diego
+    country: USA
+    url: https://google.com
+  - name: Tara Javidi
+    photo_url: /assets/images/speakers/placeholder.jpg
+    role: Some role
+    organization: University of California San Diego
+    country: USA
+    url: https://google.com

@@ -2,3 +2,43 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+#content {
+    max-width: 96rem;
+    text-align: justify;
+}
+
+#content h1, h2 {
+    text-align: center;
+}
+
+#content table {
+    text-align: center;
+    margin: 0 auto;
+}
+
+#speakers-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#speakers-list .single-speaker {
+    display: flex;
+    width: 33%,
+}
+
+#speakers-list .single-speaker ul{
+    margin: 20px auto;
+    text-align: center;
+}
+
+#speakers-list .single-speaker ul li{
+    list-style: none;
+}
+
+#speakers-list .single-speaker ul li img{
+    margin-bottom: 10px;
+    width: 70%;
+    border-radius: 50%;
+}

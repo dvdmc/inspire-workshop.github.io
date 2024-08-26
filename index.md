@@ -2,122 +2,98 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Workshop Details
 
-[Link to another page](./another-page.html).
+Welcome to the **ICRA 2025** Workshop on Active Perception and Robotic Information Gathering!
 
-There should be whitespace between paragraphs.
+The ability to actively gather and perceive relevant information is a key requirement for autonomous robots.
+Unlike traditional approaches that rely on passive data collection, active perception empowers robots to 
+strategically direct their sensors and resources towards the most informative aspects of the environment. 
+This shift is crucial for operating in complex, dynamic environments requiring adaptability and efficiency,
+e.g. in exploration, search and rescue, and inspection applications. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+This workshop will bring together researchers and practitioners to explore developments in active perception
+and robotic information gathering techniques. It will explore how robotic systems can evaluate and determine
+the best ways to collect and use data, focusing on topics such as efficient and informative path planning,
+sensor fusion, environmental modeling, coordinated information gathering, real-time uncertainty estimation,
+behavioral reasoning and information theory. Thus advancing maximal critical data acquisition, efficient
+and informative active perception, effective and synergistic robot teaming, theoretical foundations of 
+behavioral reasoning and information theory. Discussions will also highlight the role of advanced deep 
+learning methods to enable continuous learning and adaptation over time. Participants from diverse 
+backgrounds are invited to attend to highlight the core synergies in the information gathering 
+problem across application domains.
 
-# Header 1
+## Call for Papers
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Topics
 
-## Header 2
+- Active Perception
+- Planning
+- Information gathering
+- Exploration
+- ...
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Submission
 
-### Header 3
+TODO
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### Awards
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+TODO
 
-#### Header 4
+## Invited Speakers
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+<div id="speakers-list">
+{% for speaker in site.speakers %}
+    <div class="single-speaker">
+        <ul>
+            <li><img src="{{ speaker.photo_url }}"></li>
+            <li>
+                <a href="{{ speaker.url | relative_url }}">{{ speaker.name }}</a>
+            </li>
+            <li>{{ speaker.role }}</li> 
+            <li>{{ speaker.organization }}</li> 
+            <li>{{ speaker.country }}</li>
+        </ul>
+    </div>
+{% endfor %}
+</div>
+    
+## Invited Panelist
 
-##### Header 5
+- TODO
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## Workshop Organizers
 
-###### Header 6
+- Marija Popović, Assistant Professor, Delft University of Technology
+- Carlos Nieto-Granda, Postdoctoral Fellow at DEVCOM Army Research Laboratory
+- Aamodh Suresh, Postdoctoral Fellow at DEVCOM Army Research Laboratory
+- Julius Rückin, PhD Student, University of Bonn
+- Mykel Kochenderfer, Associate professor, Stanford University
+- Muhammad Fadhil Ginting, PhD Student, Stanford University
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+Contact us at: some email address
 
-### There's a horizontal rule below this.
+## Workshop Program
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+| Time               | Title                                  | Speaker     |
+|--------------------|----------------------------------------|-------------|
+| 08:45 - 09:00 AM   | Welcome message and overview of the workshop | Organizers  |
+| 09:00 - 09:20 AM   | Talk                                   | TBD         |
+| 09:20 - 09:40 AM   | Talk                                   | TBD         |
+| 09:40 - 10:00 AM   | Talk                                   | TBD         |
+| 10:00 - 10:15 AM   | Coffee Break                           |             |
+| 10:15 - 10:35 AM   | Talk                                   | TBD         |
+| 10:35 - 11:05 AM   | Spotlight Talks                        |             |
+| 11:05 - 12:00 PM   | Poster Session                         |             |
+| 12:00 - 01:00 PM   | Lunch                                  |             |
+| 01:00 - 01:20 PM   | Talk                                   | TBD         |
+| 01:20 - 01:40 PM   | Talk                                   | TBD         |
+| 01:40 - 02:40 PM   | Panel Discussion                       |             |
+| 02:40 - 03:00 PM   | Coffee Break                           |             |
+| 03:00 - 03:20 PM   | Talk                                   | TBD         |
+| 03:20 - 03:40 PM   | Talk                                   | TBD         |
+| 03:40 - 04:00 PM   | Tea Break                              |             |
+| 04:00 - 04:20 PM   | Talk                                   | TBD         |
+| 04:20 - 04:40 PM   | Talk                                   | TBD         |
+| 04:40 - 05:00 PM   | Closing Remarks                        |             |
