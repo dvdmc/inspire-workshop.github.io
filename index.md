@@ -47,7 +47,9 @@ TODO
 {% for speaker in site.speakers %}
     <div class="single-speaker">
         <ul>
-            <li><img src="{{ speaker.photo_url }}"></li>
+            <li>
+                <img alt="{{ speaker.name }}" src="{{ speaker.photo_url }}">
+            </li>
             <li>
                 <a href="{{ speaker.url | relative_url }}">{{ speaker.name }}</a>
             </li>
