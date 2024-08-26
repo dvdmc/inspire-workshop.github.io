@@ -131,7 +131,7 @@ Contact us at: some email address
 
 <div class="content-section">
 <div class="inline-wrapper">
-<h2 id="#workshop-program">Workshop Program</h2>
+<h2 id="workshop-program">Workshop Program</h2>
 
 <table>
     <tr>
