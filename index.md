@@ -133,107 +133,102 @@ Contact us at: some email address
 <div class="inline-wrapper">
 <h2 id="workshop-program">Workshop Program</h2>
 
-<table>
-    <tr>
-        <th>Time</th>
-        <th>Title</th>
-        <th>Speaker</th>
-    </tr>
-    <tr>
-        <td>08:45 - 09:00 AM</td>
-        <td>Welcome message and overview of the workshop</td>
-        <td>Organizers</td>
-    </tr>
-    <tr>
-        <td>09:00 - 09:25 AM</td>
-        <td>Talk (Sensing)</td>
-        <td>TBD</td>
-    </tr>
-    <tr>
-        <td>09:25 - 09:50 AM</td>
-        <td>Talk (Sensing)</td>
-        <td>TBD</td>
-    </tr>
-    <tr>
-        <td>09:50 - 10:00 AM</td>
-        <td>Spotlight Talks</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>10:00 - 10:30 AM</td>
-        <td>Coffee Break and Posters</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>10:30 - 10:55 AM</td>
-        <td>Talk (Theory)</td>
-        <td>TBD</td>
-    </tr>
-    <tr>
-        <td>10:55 - 11:20 AM</td>
-        <td>Talk (Planning)</td>
-        <td>TBD</td>
-    </tr>
-    <tr>
-        <td>11:20 - 11:45 AM</td>
-        <td>Talk (Planning)</td>
-        <td>TBD</td>
-    </tr>
-    <tr>
-        <td>11:45 - 12:10 AM</td>
-        <td>Talk (Planning)</td>
-        <td>TBD</td>
-    </tr>
-    <tr>
-        <td>12:10 - 01:15 PM</td>
-        <td>Lunch</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>01:15 - 01:40 PM</td>
-        <td>Talk (Mapping)</td>
-        <td>TBD</td>
-    </tr>
-    <tr>
-        <td>01:40 - 02:05 PM</td>
-        <td>Talk (Mapping)</td>
-        <td>TBD</td>
-    </tr>
-    <tr>
-        <td>02:05 - 02:15 PM</td>
-        <td>Spotlight Talks</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>02:15 - 02:45 PM</td>
-        <td>Coffee Break and Posters</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>02:45 - 03:10 PM</td>
-        <td>Talk (Industry)</td>
-        <td>TBD</td>
-    </tr>
-    <tr>
-        <td>03:10 - 03:35 PM</td>
-        <td>Talk (Industry)</td>
-        <td>TBD</td>
-    </tr>
-    <tr>
-        <td>03:35 - 03:45 PM</td>
-        <td>Break</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>03:45 - 04:45 PM</td>
-        <td>Panel Discussion</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>04:45 - 05:00 PM</td>
-        <td>Closing Remarks</td>
-        <td></td>
-    </tr>
-</table>
+<div id="program-table">
+    <div id="program-row">
+        <div>08:45 AM</div>
+        <div>Welcome message and overview of the workshop</div>
+        <div>Organizers</div>
+    </div>
+    <div id="program-row">
+        <div>09:00 AM</div>
+        <div>Talk (Sensing)</div>
+        <div>TBD</div>
+    </div>
+    <div id="program-row">
+        <div>09:25 AM</div>
+        <div>Talk (Sensing)</div>
+        <div>TBD</div>
+    </div>
+    <div id="program-row">
+        <div>09:50 AM</div>
+        <div>Spotlight Talks</div>
+        <div></div>
+    </div>
+    <div id="program-row">
+        <div>10:00 AM</div>
+        <div>Coffee Break and Posters</div>
+        <div></div>
+    </div>
+    <div id="program-row">
+        <div>10:30 AM</div>
+        <div>Talk (Theory)</div>
+        <div>TBD</div>
+    </div>
+    <div id="program-row">
+        <div>10:55 AM</div>
+        <div>Talk (Planning)</div>
+        <div>TBD</div>
+    </div>
+    <div id="program-row">
+        <div>11:20 AM</div>
+        <div>Talk (Planning)</div>
+        <div>TBD</div>
+    </div>
+    <div id="program-row">
+        <div>11:45 AM</div>
+        <div>Talk (Planning)</div>
+        <div>TBD</div>
+    </div>
+    <div id="program-row">
+        <div>12:10 PM</div>
+        <div>Lunch</div>
+        <div></div>
+    </div>
+    <div id="program-row">
+        <div>01:15 PM</div>
+        <div>Talk (Mapping)</div>
+        <div>TBD</div>
+    </div>
+    <div id="program-row">
+        <div>01:40 PM</div>
+        <div>Talk (Mapping)</div>
+        <div>TBD</div>
+    </div>
+    <div id="program-row">
+        <div>02:05 PM</div>
+        <div>Spotlight Talks</div>
+        <div></div>
+    </div>
+    <div id="program-row">
+        <div>02:15 PM</div>
+        <div>Coffee Break and Posters</div>
+        <div></div>
+    </div>
+    <div id="program-row">
+        <div>02:45 PM</div>
+        <div>Talk (Industry)</div>
+        <div>TBD</div>
+    </div>
+    <div id="program-row">
+        <div>03:10 PM</div>
+        <div>Talk (Industry)</div>
+        <div>TBD</div>
+    </div>
+    <div id="program-row">
+        <div>03:35 PM</div>
+        <div>Break</div>
+        <div></div>
+    </div>
+    <div id="program-row">
+        <div>03:45 PM</div>
+        <div>Panel Discussion</div>
+        <div></div>
+    </div>
+    <div id="program-row">
+        <div>04:45 PM</div>
+        <div>Closing Remarks</div>
+        <div></div>
+    </div>
+</div>
 </div>
 </div>
