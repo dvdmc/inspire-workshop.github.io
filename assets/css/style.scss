@@ -71,7 +71,7 @@
 
 }
 
-#content #program-table #program-row {
+#content #program-table .program-row {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -82,25 +82,25 @@
     padding: 30px;
 }
 
-#content #program-table #program-row div {
+#content #program-table .program-row div {
     display: flex;
     justify-content: center;
     text-align: center;
     padding: 0 10px;
 }
 
-#content #program-table #program-row div:nth-child(1) {
+#content #program-table .program-row div:nth-child(1) {
     flex: 0 0 auto;
     width: 25%;
     font-weight: bold;
 }
 
-#content #program-table #program-row div:nth-child(2) {
+#content #program-table .program-row div:nth-child(2) {
     flex: 0 0 auto;
     width: 50%;
 }
 
-#content #program-table #program-row div:nth-child(3) {
+#content #program-table .program-row div:nth-child(3) {
     flex: 0 0 auto;
     width: 25%;
 }
