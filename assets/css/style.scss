@@ -3,6 +3,24 @@
 
 @import 'jekyll-theme-cayman';
 
+.page-header {
+    background-image: url('/assets/images/atlanta_background.jpg');
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 250px;
+    padding-top: 250px;
+}
+
+.btn {
+    color: rgba(255, 255, 255, 1.0);
+    background-color: rgba(255, 255, 255, 0.5);
+    transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+}
+
+.project-tagline {
+    opacity: 0.9;
+}
+
 #content {
     max-width: 100%;
     text-align: justify;
