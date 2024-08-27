@@ -45,10 +45,6 @@ problem across application domains.
 
 TODO
 
-<h3>Awards</h3>
-
-TODO
-
 </div>
 </div>
 
@@ -126,6 +122,22 @@ TODO
 Contact us at: some email address
 </span>
 
+</div>
+</div>
+
+<div class="content-section">
+<div class="inline-wrapper">
+<h2 id="involved-institutions">Involved Institutions</h2>
+
+<div id="institution-logos">
+    {% for institution in site.institutions %}
+        <div class="institution-logo">
+            <a href="{{ institution.url }}">
+                <img alt="{{ institution.name}}" src="{{ institution.logo_url}}">
+            </a>
+        </div>
+    {% endfor %}
+</div>
 </div>
 </div>
 

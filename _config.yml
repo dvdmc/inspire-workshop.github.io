@@ -121,3 +121,23 @@ organizers:
     organization: Stanford University
     country: USA
     url: https://google.com
+
+institutions:
+  - name: TU Delft
+    logo_url: /assets/images/institutions/delft_logo.svg
+    url: https://www.tudelft.nl/
+  - name: DEVCOM Army Research Laboratory
+    logo_url: /assets/images/institutions/devcom_logo.png
+    url: https://arl.devcom.army.mil/
+  - name: University of Bonn
+    logo_url: /assets/images/institutions/bonn_logo.jpeg
+    url: https://www.uni-bonn.de/
+  - name: PhenoRob
+    logo_url: /assets/images/institutions/phenorob_logo.jpg
+    url: https://www.phenorob.de/
+  - name: Stanford University
+    logo_url: /assets/images/institutions/stanford_logo.png
+    url: https://www.stanford.edu/
+  - name: ICRA 2025
+    logo_url: /assets/images/institutions/icra_logo.png
+    url: https://2025.ieee-icra.org/

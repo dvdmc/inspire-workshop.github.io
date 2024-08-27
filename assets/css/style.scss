@@ -104,3 +104,20 @@
     flex: 0 0 auto;
     width: 25%;
 }
+
+#content #institution-logos {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+}
+
+#content #institution-logos .institution-logo {
+    display: flex;
+    margin: 30px;
+}
+
+#content #institution-logos .institution-logo img {
+    height: 125px;
+}
