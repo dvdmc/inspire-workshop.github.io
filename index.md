@@ -33,7 +33,7 @@ problem across application domains.
 
 <h3>Topics</h3>
 
-<ul>
+<ul id="topic-list">
     <li>Active Perception</li>
     <li>Planning</li>
     <li>Information gathering</li>
