@@ -6,24 +6,24 @@ layout: default
 <div class="inline-wrapper">
 <h2 id="workshop-details">Workshop Details</h2>
 
-Welcome to the <b>ICRA 2025</b> Workshop on Active Perception and Robotic Information Gathering!
+<p>
+Welcome to the <b>ICRA 2025</b> Workshop on <b>In</b>formative <b>S</b>ensing and <b>P</b>lanning for <b>I</b>ntelligent <b>R</b>obotic <b>E</b>xploration!
+</p>
 
+<p>
 The ability to actively gather and perceive relevant information is a key requirement for autonomous robots.
-Unlike traditional approaches that rely on passive data collection, active perception empowers robots to 
-strategically direct their sensors and resources towards the most informative aspects of the environment. 
-This shift is crucial for operating in complex, dynamic environments requiring adaptability and efficiency,
-e.g. in exploration, search and rescue, and inspection applications. 
+Unlike traditional approaches that rely on passive data collection, active perception empowers robots to strategically direct their sensors and resources towards the most informative aspects of the environment.
+This shift is crucial for operating in complex, dynamic environments requiring adaptability and efficiency, e.g., in exploration, search and rescue, and inspection applications. 
+</p>
 
-This workshop will bring together researchers and practitioners to explore developments in active perception
-and robotic information gathering techniques. It will explore how robotic systems can evaluate and determine
-the best ways to collect and use data, focusing on topics such as efficient and informative path planning,
-sensor fusion, environmental modeling, coordinated information gathering, real-time uncertainty estimation,
-behavioral reasoning and information theory. Thus advancing maximal critical data acquisition, efficient
-and informative active perception, effective and synergistic robot teaming, theoretical foundations of 
-behavioral reasoning and information theory. Discussions will also highlight the role of advanced deep 
-learning methods to enable continuous learning and adaptation over time. Participants from diverse 
-backgrounds are invited to attend to highlight the core synergies in the information gathering 
-problem across application domains.
+<p>
+This workshop will bring together researchers and practitioners to explore developments in active perception and robotic information gathering techniques.
+It will explore how robotic systems can evaluate and determine the best ways to collect and use data, focusing on topics such as efficient and informative path planning, sensor fusion, environmental modeling, coordinated information gathering, real-time uncertainty estimation, behavioral reasoning and information theory. 
+Thus advancing maximal critical data acquisition, efficient and informative active perception, effective and synergistic robot teaming, theoretical foundations of behavioral reasoning and information theory. 
+Discussions will also highlight the role of advanced deep learning methods in enabling continuous learning and adaptation over time. 
+Participants from diverse backgrounds are invited to attend to highlight the core synergies in the information gathering problem across application domains.
+</p>
+
 </div>
 </div>
 
