@@ -83,7 +83,7 @@ contribution, and the authors will be notified of the result.
                 <img alt="{{ speaker.name }}" src="{{ speaker.photo_url }}">
             </li>
             <li>
-                <a href="{{ speaker.url | relative_url }}">{{ speaker.name }}</a>
+                <a href="{{ speaker.url | relative_url }}" target="_blank">{{ speaker.name }}</a>
             </li>
             <li>{{ speaker.role }}</li> 
             <li>{{ speaker.organization }}</li> 

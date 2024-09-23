@@ -11,58 +11,47 @@ plugins:
 speakers:
   - name: Jen Jen Chung
     photo_url: /assets/images/speakers/placeholder.jpg
-    role: Some role
+    role: Associate Professor
     organization: The University of Queensland
     country: Australia
-    url: https://google.com
+    url: https://scholar.google.com/citations?user=FpzRM5UAAAAJ&hl=en&oi=ao
   - name: Martin Saska
     photo_url: /assets/images/speakers/placeholder.jpg
-    role: Some role
+    role: Associate Professor
     organization: Czech Technical University
     country: Prague
-    url: https://google.com
+    url: https://scholar.google.com/citations?user=5PBYoTsAAAAJ&hl=en&oi=ao
   - name: Nare Karapetyan
     photo_url: /assets/images/speakers/placeholder.jpg
-    role: Some role
+    role: Assistant Scientist
     organization: Woods Hole Oceanographic Institute (WHOI)
     country: USA
-    url: https://google.com
-  - name: Maren Bennewitz
-    photo_url: /assets/images/speakers/placeholder.jpg
-    role: Some role
-    organization: University of Bonn
-    country: Germany
-    url: https://google.com
+    url: https://scholar.google.com/citations?user=BvTFNTkAAAAJ&hl=en&oi=ao
   - name: Antonella Barišić Kulaš
     photo_url: /assets/images/speakers/placeholder.jpg
-    role: Some role
+    role: PhD Student
     organization: University of Zagreb
     country: Croatia
-    url: https://google.com
-  - name: Satoshi Tadakoro
+    url: https://scholar.google.com/citations?user=ePnL9R4AAAAJ&hl=en&oi=ao
+  - name: Lukas Schmid
     photo_url: /assets/images/speakers/placeholder.jpg
-    role: Some role
-    organization: University of Tokyo
-    country: Japan
-    url: https://google.com
-  - name: Vandi Verma
-    photo_url: /assets/images/speakers/placeholder.jpg
-    role: Some role
-    organization: JPL NASA
+    role: Postdoctoral research fellow
+    organization: Massachusetts Institute of Technology
     country: USA
-    url: https://google.com
-  - name: Thomas E. Levy
+    url: https://scholar.google.com/citations?user=r79fGI0AAAAJ&hl=en&oi=ao
+  - name: Ali-akbar Agha-mohammadi
     photo_url: /assets/images/speakers/placeholder.jpg
-    role: Some role
-    organization: University of California San Diego
+    role: Robotics Technologist
+    organization: NASA Jet Propulsion Laboratory
     country: USA
-    url: https://google.com
-  - name: Tara Javidi
+    url: https://scholar.google.com/citations?user=36qnUD4AAAAJ&hl=en&oi=ao
+  - name: Hyondong Oh
     photo_url: /assets/images/speakers/placeholder.jpg
-    role: Some role
-    organization: University of California San Diego
-    country: USA
-    url: https://google.com
+    role: Associate Professor
+    organization: Ulsan National Institute of Science and Technology
+    country: South Korea
+    url: https://scholar.google.com/citations?user=q_Pbm3kAAAAJ&hl=en
+
 
 panelists:
   - name: Person A
