@@ -34,11 +34,9 @@ problem across application domains.
 <h3>Topics</h3>
 
 <ul id="topic-list">
-    <li>Active Perception</li>
-    <li>Planning</li>
-    <li>Information gathering</li>
-    <li>Exploration</li>
-    <li>...</li>
+{% for topic in site.topics %}
+    <li>{{ topic }}</li>
+{% endfor %}
 </ul>
 
 <h3>Submission</h3>
