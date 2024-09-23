@@ -33,15 +33,40 @@ problem across application domains.
 
 <h3>Topics</h3>
 
-<ul id="topic-list">
-{% for topic in site.topics %}
+<ul class="default-list">
+{% for topic in site.call.topics %}
     <li>{{ topic }}</li>
 {% endfor %}
 </ul>
 
 <h3>Submission</h3>
 
-TODO
+<p>
+Researchers in robotic information gathering and exploration are 
+encouraged to contribute to the workshop by submitting a <b>two-page paper</b> 
+(excluding references) in PDF format. 
+</p>
+
+<p>
+Submission link: <a href="{{ site.call.submissions.url }}">{{ site.call.submissions.link_name }}</a>
+</p>
+
+In particular, submitted papers must be formatted according to the 
+guideline of ICRA 2025. The program committee will review each 
+contribution, and the authors will be notified of the result.
+
+</div>
+</div>
+
+<div class="content-section">
+<div class="inline-wrapper">
+<h2 id="important-dates">Important Dates</h2>
+
+<ul class="default-list">
+    {% for event in site.events %}
+    <li><b>{{ event.date }}</b>: {{ event.name }}</li>
+{% endfor %}
+</ul>
 
 </div>
 </div>

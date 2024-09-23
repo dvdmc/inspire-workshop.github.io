@@ -142,19 +142,30 @@ institutions:
     logo_url: /assets/images/institutions/icra_logo.png
     url: https://2025.ieee-icra.org/
 
-topics:
-  - Learning-based methods for planning
-  - Coordinated information gathering
-  - Real-time uncertainty estimation
-  - Persistent environmental monitoring
-  - Multi-modal sensing and multi-sensor fusion
-  - Behavioral reasoning
-  - Novel information metrics
-  - Active simultaneous localization and mapping
-  - Planning for active learning
-  - Transfer learning across tasks or application domains
-  - Human-robot interaction in exploration
-  - Real-time communication and data sharing
-  - Theoretical foundations of informative path planning
-  - Real-world deployments of information gathering frameworks
-  - ...
+call:
+  topics:
+    - Learning-based methods for planning
+    - Coordinated information gathering
+    - Real-time uncertainty estimation
+    - Persistent environmental monitoring
+    - Multi-modal sensing and multi-sensor fusion
+    - Behavioral reasoning
+    - Novel information metrics
+    - Active simultaneous localization and mapping
+    - Planning for active learning
+    - Transfer learning across tasks or application domains
+    - Human-robot interaction in exploration
+    - Real-time communication and data sharing
+    - Theoretical foundations of informative path planning
+    - Real-world deployments of information gathering frameworks
+    - ...
+  submissions:
+    url: "#"
+    link_name: TBC
+events:
+  - name: Workshop contrbution submission deadline
+    date: April 5 2025
+  - name: Notification of acceptance
+    date: April 17 2025
+  - name: Full-day workshop
+    date: May 19 or 25 2025
