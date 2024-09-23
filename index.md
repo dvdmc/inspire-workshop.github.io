@@ -39,7 +39,7 @@ Participants from diverse backgrounds are invited to attend to highlight the cor
 {% endfor %}
 </ul>
 
-<h3>Submission</h3>
+<h3 id="submissions">Submission</h3>
 
 <p>
 Researchers in robotic information gathering and exploration are 

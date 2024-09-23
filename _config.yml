@@ -142,7 +142,7 @@ call:
     - Real-world deployments of information gathering frameworks
     - ...
   submissions:
-    url: "#"
+    url: "#submissions"
     link_name: TBC
 events:
   - name: Workshop contrbution submission deadline
