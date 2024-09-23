@@ -44,16 +44,20 @@ Participants from diverse backgrounds are invited to attend to highlight the cor
 <p>
 Researchers in robotic information gathering and exploration are 
 encouraged to contribute to the workshop by submitting a <b>two-page paper</b> 
-(excluding references) in PDF format. 
+(excluding references) in PDF format. We encourage the submission of new 
+ideas and will only consider non-archival abstracts based on a prior 
+publication if the submission is not based on new content.
 </p>
 
 <p>
 Submission link: <a href="{{ site.call.submissions.url }}">{{ site.call.submissions.link_name }}</a>
 </p>
 
+<p>
 In particular, submitted papers must be formatted according to the 
 guideline of ICRA 2025. The program committee will review each 
 contribution, and the authors will be notified of the result.
+</p>
 
 </div>
 </div>
