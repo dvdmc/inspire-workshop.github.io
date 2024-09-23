@@ -176,17 +176,17 @@ Contact us at: m.popovic@tudelft.nl
     <div class="program-row">
         <div>08:45 AM</div>
         <div>Welcome message and overview of the workshop</div>
-        <div>Organizers</div>
+        <div></div>
     </div>
     <div class="program-row">
         <div>09:00 AM</div>
-        <div>Talk (Sensing)</div>
         <div>TBD</div>
+        <div>Martin Saska</div>
     </div>
     <div class="program-row">
         <div>09:25 AM</div>
-        <div>Talk (Sensing)</div>
-        <div>TBD</div>
+        <div>Intelligent Data-Centric Approaches to UAV Sensing</div>
+        <div>Antonella Barišić Kulaš</div>
     </div>
     <div class="program-row">
         <div>09:50 AM</div>
@@ -205,18 +205,18 @@ Contact us at: m.popovic@tudelft.nl
     </div>
     <div class="program-row">
         <div>10:55 AM</div>
-        <div>Talk (Planning)</div>
-        <div>TBD</div>
+        <div>Multi-scale and multi-objective informative planning</div>
+        <div>Jen Jen Chung</div>
     </div>
     <div class="program-row">
         <div>11:20 AM</div>
-        <div>Talk (Planning)</div>
-        <div>TBD</div>
+        <div>Autonomous gas source search using information-theoretic and reinforcement learning approaches in uncertain environments</div>
+        <div>Hyondong Oh</div>    
     </div>
     <div class="program-row">
         <div>11:45 AM</div>
-        <div>Talk (Planning)</div>
         <div>TBD</div>
+        <div>Nare Karapetyan</div>
     </div>
     <div class="program-row">
         <div>12:10 PM</div>
@@ -225,12 +225,12 @@ Contact us at: m.popovic@tudelft.nl
     </div>
     <div class="program-row">
         <div>01:15 PM</div>
-        <div>Talk (Mapping)</div>
-        <div>TBD</div>
+        <div>Learning for Active Perception and Active Perception for Robot Learning</div>
+        <div>Lukas Schmid</div>    
     </div>
     <div class="program-row">
         <div>01:40 PM</div>
-        <div>Talk (Mapping)</div>
+        <div>Talk  (Mapping)</div>
         <div>TBD</div>
     </div>
     <div class="program-row">
@@ -245,8 +245,8 @@ Contact us at: m.popovic@tudelft.nl
     </div>
     <div class="program-row">
         <div>02:45 PM</div>
-        <div>Talk (Industry)</div>
         <div>TBD</div>
+        <div>Ali-akbar Agha-mohammadi</div>
     </div>
     <div class="program-row">
         <div>03:10 PM</div>
