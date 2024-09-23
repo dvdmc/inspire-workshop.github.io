@@ -142,7 +142,7 @@ contribution, and the authors will be notified of the result.
 </div>
 
 <span style="font-weight: bold; text-align: center; display: block; margin-top: 20px;">
-Contact us at: some email address
+Contact us at: m.popovic@tudelft.nl
 </span>
 
 </div>
