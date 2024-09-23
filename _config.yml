@@ -68,7 +68,7 @@ panelists:
 
 organizers:
   - name: Marija Popović
-    photo_url: /assets/images/speakers/placeholder.jpg
+    photo_url: /assets/images/organizers/masha.jpg
     role: Assistant Professor
     organization: Delft University of Technology
     country: Netherlands
@@ -86,7 +86,7 @@ organizers:
     country: USA
     url: https://google.com
   - name: Julius Rückin
-    photo_url: /assets/images/speakers/placeholder.jpg
+    photo_url: /assets/images/organizers/julius.jpg
     role: PhD Student
     organization: University of Bonn
     country: Germany
