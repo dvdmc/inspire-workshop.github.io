@@ -54,24 +54,17 @@ speakers:
 
 
 panelists:
-  - name: Person A
+  - name: Jen Jen Chung
     photo_url: /assets/images/speakers/placeholder.jpg
-    role: Some role
-    organization: Some org
-    country: Some country
-    url: https://google.com
-  - name: Person B
+    role: Associate Professor
+    organization: The University of Queensland
+    country: Australia
+  - name: Nare Karapetyan
     photo_url: /assets/images/speakers/placeholder.jpg
-    role: Some role
-    organization: Some org
-    country: Some country
-    url: https://google.com
-  - name: Person C
-    photo_url: /assets/images/speakers/placeholder.jpg
-    role: Some role
-    organization: Some org
-    country: Some country
-    url: https://google.com
+    role: Assistant Scientist
+    organization: Woods Hole Oceanographic Institute (WHOI)
+    country: USA
+    url: https://scholar.google.com/citations?user=BvTFNTkAAAAJ&hl=en&oi=ao
 
 organizers:
   - name: Marija Popović
