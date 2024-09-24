@@ -92,13 +92,13 @@ organizers:
     country: Germany
     url: https://google.com
   - name: Mykel Kochenderfer
-    photo_url: /assets/images/speakers/placeholder.jpg
-    role: Associate professor
+    photo_url: /assets/images/organizers/mykel.jpg
+    role: Associate Professor
     organization: Stanford University
     country: USA
     url: https://google.com
   - name: Muhammad Fadhil Ginting
-    photo_url: /assets/images/speakers/placeholder.jpg
+    photo_url: /assets/images/organizers/fadhil.jpg
     role: PhD Student
     organization: Stanford University
     country: USA
