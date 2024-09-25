@@ -200,8 +200,8 @@ Contact us at: m.popovic@tudelft.nl
     </div>
     <div class="program-row">
         <div>10:30 AM</div>
-        <div>Talk (Theory)</div>
-        <div>TBD</div>
+        <div>Learning and control-based active perception over continuous SE(3) trajectories</div>
+        <div>Shumon Koga</div>
     </div>
     <div class="program-row">
         <div>10:55 AM</div>

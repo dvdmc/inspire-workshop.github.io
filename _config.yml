@@ -51,6 +51,12 @@ speakers:
     organization: Ulsan National Institute of Science and Technology
     country: South Korea
     url: https://scholar.google.com/citations?user=q_Pbm3kAAAAJ&hl=en
+  - name: Shumon Koga
+    photo_url: /assets/images/speakers/placeholder.jpg
+    role: Staff Engineer
+    organization: Honda Research and Development
+    country: Japan
+    url: https://scholar.google.com/citations?user=5UMyBR8AAAAJ&hl=de&oi=ao
 
 
 panelists:
