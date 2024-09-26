@@ -230,8 +230,8 @@ Contact us at: m.popovic@tudelft.nl
     </div>
     <div class="program-row">
         <div>01:40 PM</div>
-        <div>Talk  (Mapping)</div>
         <div>TBD</div>
+        <div>Marco Hutter</div>
     </div>
     <div class="program-row">
         <div>02:05 PM</div>

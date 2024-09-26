@@ -63,6 +63,12 @@ speakers:
     organization: Honda Research and Development
     country: Japan
     url: https://scholar.google.com/citations?user=5UMyBR8AAAAJ&hl=de&oi=ao
+  - name: Marco Hutter
+    photo_url: /assets/images/speakers/placeholder.jpg
+    role: Associate Professor
+    organization: ETH Zurich
+    country: Switzerland
+    url: https://scholar.google.com/citations?user=DO3quJYAAAAJ&hl=de&oi=ao
 
 panelists:
   - name: Jen Jen Chung
