@@ -15,11 +15,17 @@ speakers:
     organization: The University of Queensland
     country: Australia
     url: https://scholar.google.com/citations?user=FpzRM5UAAAAJ&hl=en&oi=ao
+  - name: Tara Javidi
+    photo_url: /assets/images/speakers/placeholder.jpg
+    role: Professor
+    organization: University of California San Diego
+    country: USA
+    url: https://tjavidi.eng.ucsd.edu/
   - name: Martin Saska
     photo_url: /assets/images/speakers/placeholder.jpg
     role: Associate Professor
-    organization: Czech Technical University
-    country: Prague
+    organization: Czech Technical University in Prague
+    country: Czech
     url: https://scholar.google.com/citations?user=5PBYoTsAAAAJ&hl=en&oi=ao
   - name: Nare Karapetyan
     photo_url: /assets/images/speakers/placeholder.jpg
@@ -57,7 +63,6 @@ speakers:
     organization: Honda Research and Development
     country: Japan
     url: https://scholar.google.com/citations?user=5UMyBR8AAAAJ&hl=de&oi=ao
-
 
 panelists:
   - name: Jen Jen Chung

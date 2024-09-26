@@ -200,8 +200,8 @@ Contact us at: m.popovic@tudelft.nl
     </div>
     <div class="program-row">
         <div>10:30 AM</div>
-        <div>Learning and control-based active perception over continuous SE(3) trajectories</div>
-        <div>Shumon Koga</div>
+        <div>TBD</div>
+        <div>Tara Javidi</div>
     </div>
     <div class="program-row">
         <div>10:55 AM</div>
@@ -245,13 +245,13 @@ Contact us at: m.popovic@tudelft.nl
     </div>
     <div class="program-row">
         <div>02:45 PM</div>
-        <div>TBD</div>
-        <div>Ali-akbar Agha-mohammadi</div>
+        <div>Learning and control-based active perception over continuous SE(3) trajectories</div>
+        <div>Shumon Koga</div>
     </div>
     <div class="program-row">
         <div>03:10 PM</div>
-        <div>Talk (Industry)</div>
         <div>TBD</div>
+        <div>Ali-akbar Agha-mohammadi</div>
     </div>
     <div class="program-row">
         <div>03:35 PM</div>
