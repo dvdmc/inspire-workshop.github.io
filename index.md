@@ -107,7 +107,7 @@ Submission link: <a href="{{ site.call.submissions.url }}">{{ site.call.submissi
                 <img alt="{{ panelist.name }}" src="{{ panelist.photo_url }}">
             </li>
             <li>
-                <a href="{{ panelist.url | relative_url }}">{{ panelist.name }}</a>
+                <a href="{{ panelist.url | relative_url }}" target="_blank">{{ panelist.name }}</a>
             </li>
             <li>{{ panelist.role }}</li> 
             <li>{{ panelist.organization }}</li> 
@@ -131,7 +131,7 @@ Submission link: <a href="{{ site.call.submissions.url }}">{{ site.call.submissi
                 <img alt="{{ organizer.name }}" src="{{ organizer.photo_url }}">
             </li>
             <li>
-                <a href="{{ organizer.url | relative_url }}">{{ organizer.name }}</a>
+                <a href="{{ organizer.url | relative_url }}" target="_blank">{{ organizer.name }}</a>
             </li>
             <li>{{ organizer.role }}</li> 
             <li>{{ organizer.organization }}</li> 
