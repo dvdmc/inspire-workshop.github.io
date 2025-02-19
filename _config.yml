@@ -9,36 +9,48 @@ plugins:
   - jekyll-remote-theme
 
 speakers:
-  - name: Jen Jen Chung
+  - name: Hermann Blum
     photo_url: /assets/images/speakers/placeholder.jpg
-    role: Associate Professor
-    organization: The University of Queensland
-    country: Australia
-    url: https://scholar.google.com/citations?user=FpzRM5UAAAAJ&hl=en&oi=ao
-  - name: Tara Javidi
-    photo_url: /assets/images/speakers/placeholder.jpg
-    role: Professor
-    organization: University of California San Diego
-    country: USA
-    url: https://tjavidi.eng.ucsd.edu/
-  - name: Martin Saska
-    photo_url: /assets/images/speakers/placeholder.jpg
-    role: Associate Professor
-    organization: Czech Technical University in Prague
-    country: Czech
-    url: https://scholar.google.com/citations?user=5PBYoTsAAAAJ&hl=en&oi=ao
-  - name: Nare Karapetyan
-    photo_url: /assets/images/speakers/placeholder.jpg
-    role: Assistant Scientist
-    organization: Woods Hole Oceanographic Institute (WHOI)
-    country: USA
-    url: https://scholar.google.com/citations?user=BvTFNTkAAAAJ&hl=en&oi=ao
+    role: Junior Professor
+    organization: University of Bonn
+    country: Germany
+    url: https://scholar.google.com/citations?user=2Pxx8QIAAAAJ&hl=en&oi=ao
   - name: Antonella Barišić Kulaš
     photo_url: /assets/images/speakers/placeholder.jpg
     role: PhD Student
     organization: University of Zagreb
     country: Croatia
     url: https://scholar.google.com/citations?user=ePnL9R4AAAAJ&hl=en&oi=ao
+  - name: Graeme Best
+    photo_url: /assets/images/speakers/placeholder.jpg
+    role: Lecturer
+    organization: University of Technology Sydney
+    country: Australia
+    url: https://scholar.google.com/citations?user=wPseTqoAAAAJ&hl=en
+  - name: Shumon Koga
+    photo_url: /assets/images/speakers/placeholder.jpg
+    role: Staff Engineer
+    organization: Honda Research and Development
+    country: Japan
+    url: https://scholar.google.com/citations?user=5UMyBR8AAAAJ&hl=de&oi=ao
+  - name: Hyondong Oh
+    photo_url: /assets/images/speakers/placeholder.jpg
+    role: Associate Professor
+    organization: Ulsan National Institute of Science and Technology
+    country: South Korea
+    url: https://scholar.google.com/citations?user=q_Pbm3kAAAAJ&hl=en
+  - name: Nare Karapetyan
+    photo_url: /assets/images/speakers/placeholder.jpg
+    role: Assistant Scientist
+    organization: Woods Hole Oceanographic Institute (WHOI)
+    country: USA
+    url: https://scholar.google.com/citations?user=BvTFNTkAAAAJ&hl=en&oi=ao
+  - name: Jen Jen Chung
+    photo_url: /assets/images/speakers/placeholder.jpg
+    role: Associate Professor
+    organization: The University of Queensland
+    country: Australia
+    url: https://scholar.google.com/citations?user=FpzRM5UAAAAJ&hl=en&oi=ao
   - name: Lukas Schmid
     photo_url: /assets/images/speakers/placeholder.jpg
     role: Postdoctoral research fellow
@@ -51,24 +63,6 @@ speakers:
     organization: NASA Jet Propulsion Laboratory
     country: USA
     url: https://scholar.google.com/citations?user=36qnUD4AAAAJ&hl=en&oi=ao
-  - name: Hyondong Oh
-    photo_url: /assets/images/speakers/placeholder.jpg
-    role: Associate Professor
-    organization: Ulsan National Institute of Science and Technology
-    country: South Korea
-    url: https://scholar.google.com/citations?user=q_Pbm3kAAAAJ&hl=en
-  - name: Shumon Koga
-    photo_url: /assets/images/speakers/placeholder.jpg
-    role: Staff Engineer
-    organization: Honda Research and Development
-    country: Japan
-    url: https://scholar.google.com/citations?user=5UMyBR8AAAAJ&hl=de&oi=ao
-  - name: Marco Hutter
-    photo_url: /assets/images/speakers/placeholder.jpg
-    role: Associate Professor
-    organization: ETH Zurich
-    country: Switzerland
-    url: https://scholar.google.com/citations?user=DO3quJYAAAAJ&hl=de&oi=ao
 
 panelists:
   - name: TBA
