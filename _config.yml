@@ -71,17 +71,12 @@ speakers:
     url: https://scholar.google.com/citations?user=DO3quJYAAAAJ&hl=de&oi=ao
 
 panelists:
-  - name: Jen Jen Chung
+  - name: TBA
     photo_url: /assets/images/speakers/placeholder.jpg
-    role: Associate Professor
-    organization: The University of Queensland
-    country: Australia
-  - name: Nare Karapetyan
-    photo_url: /assets/images/speakers/placeholder.jpg
-    role: Assistant Scientist
-    organization: Woods Hole Oceanographic Institute (WHOI)
-    country: USA
-    url: https://scholar.google.com/citations?user=BvTFNTkAAAAJ&hl=en&oi=ao
+    role:
+    organization:
+    country:
+    url:
 
 organizers:
   - name: Marija Popović
