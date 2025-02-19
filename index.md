@@ -28,7 +28,7 @@ The event is designed to encourage and foster collaboration across different res
 
 <div class="content-section">
 <div class="inline-wrapper">
-<h2 id="call-for-papers">Call for Papers</h2>
+<h2 id="call-for-posters">Call for Posters</h2>
 
 <h3>Topics</h3>
 
