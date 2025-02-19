@@ -1,8 +1,8 @@
 markdown: kramdown
 title:
-  primary: "INSPIRE - ICRA 2025 Workshop on"
+  primary: "INSPIRE - RSS 2025 Workshop on"
   secondary: "Informative Sensing and Planning for Intelligent Robotic Exploration"
-description: "ICRA 2025 X - Room, Atlanta, US, 19th of May 2025, 08:30"
+description: "RSS 2025 X - Room, Los Angeles, US, 25th of June 2025, 08:15"
 show_downloads: false
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
@@ -138,7 +138,7 @@ institutions:
     logo_url: /assets/images/institutions/stanford_logo.png
     url: https://www.stanford.edu/
   - name: ICRA 2025
-    logo_url: /assets/images/institutions/icra_logo.png
+    logo_url: /assets/images/institutions/rss_logo.png
     url: https://2025.ieee-icra.org/
 
 call:
@@ -162,9 +162,9 @@ call:
     url: "#submissions"
     link_name: TBC
 events:
-  - name: Workshop contrbution submission deadline
-    date: April 5 2025
+  - name: Workshop contribution submission deadline
+    date: May 5 2025
   - name: Notification of acceptance
-    date: April 17 2025
+    date: May 17 2025
   - name: Full-day workshop
-    date: May 19 or 25 2025
+    date: June 25 2025
