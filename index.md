@@ -7,21 +7,20 @@ layout: default
 <h2 id="workshop-details">Workshop Details</h2>
 
 <p>
-Welcome to the <b>ICRA 2025</b> Workshop on <b>In</b>formative <b>S</b>ensing and <b>P</b>lanning for <b>I</b>ntelligent <b>R</b>obotic <b>E</b>xploration!
+Welcome to the <b>RSS 2025</b> Workshop on <b>In</b>formative <b>S</b>ensing and <b>P</b>lanning for <b>I</b>ntelligent <b>R</b>obotic <b>E</b>xploration!
 </p>
 
 <p>
-The ability to actively gather and perceive relevant information is a key requirement for autonomous robots.
-Unlike traditional approaches that rely on passive data collection, active perception empowers robots to strategically direct their sensors and resources towards the most informative aspects of the environment.
-This shift is crucial for operating in complex, dynamic environments requiring adaptability and efficiency, e.g., in exploration, search and rescue, and inspection applications. 
+“So, why did the robot go to that room?”, “Did the robot find anything?”, “…Maybe. We’re not sure.”, “Can’t you tell me how confident you are?” “Not really”, “Why didn’t the robot check further or observe from a better place?” “It wasn’t programmed for that!”. 
+These questions and dialogues are often expressed when deploying robots that rely on passive, fixed, and rigid methods to collect data and understand their complex environments. Contrarily, active perception and information gathering strategies allow robots to intelligently adapt their sensing and decision-making processes, which is crucial for operating in complex, dynamic environments requiring adaptability and efficiency for applications like exploration, search and rescue, mapping, and inspection. 
+Perception, mapping, and planning are fundamental components of robotic information gathering.  However, their effective deployment across diverse scenarios requires a more integrated and holistic approach. With the rapid emergence of novel learning-based methods, it is crucial to revisit them from the lens of information theory – a pivotal perspective in active perception and efficient robotic information acquisition.
 </p>
 
 <p>
-This workshop will bring together researchers and practitioners to explore developments in active perception and robotic information gathering techniques.
-It will explore how robotic systems can evaluate and determine the best ways to collect and use data, focusing on topics such as efficient and informative path planning, sensor fusion, environmental modeling, coordinated information gathering, real-time uncertainty estimation, behavioral reasoning and information theory. 
-Thus advancing maximal critical data acquisition, efficient and informative active perception, effective and synergistic robot teaming, theoretical foundations of behavioral reasoning and information theory. 
-Discussions will also highlight the role of advanced deep learning methods in enabling continuous learning and adaptation over time. 
-Participants from diverse backgrounds are invited to attend to highlight the core synergies in the information gathering problem across application domains.
+The workshop aims to bring together researchers and practitioners across academia, government agencies, and industry to discuss state-of-the-art methods in information gathering, involving topics like efficient path planning, sensor fusion, environmental modeling, and behavioral reasoning. 
+Additionally, discussions will address the role of advanced deep learning techniques in continual learning and adaptation. Our proposed workshop will feature a structured program with invited talks, panel discussions, and interactive poster sessions. 
+Presenters and panelists come from various sub-communities, including aerial, ground, and marine robotics, as well as theoretical fields such as control and information theory. Industry representatives will also provide insights into real-world applications and challenges. 
+The event is designed to encourage and foster collaboration across different research areas and highlight synergies in information gathering across application domains. 
 </p>
 
 </div>
