@@ -144,9 +144,12 @@ institutions:
   - name: Stanford University
     logo_url: /assets/images/institutions/stanford_logo.png
     url: https://www.stanford.edu/
-  - name: ICRA 2025
+  - name: Universidad de Zaragoza
+    logo_url: /assets/images/institutions/unizar.png
+    url: https://www.unizar.es/
+  - name: RSS 2025
     logo_url: /assets/images/institutions/rss_logo.png
-    url: https://2025.ieee-icra.org/
+    url: https://roboticsconference.org/
 
 call:
   topics:

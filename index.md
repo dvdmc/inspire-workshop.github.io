@@ -155,7 +155,7 @@ Contact us at: m.popovic@tudelft.nl
 <div id="institution-logos">
     {% for institution in site.institutions %}
         <div class="institution-logo">
-            <a href="{{ institution.url }}">
+            <a href="{{ institution.url }}" target="_blank">
                 <img alt="{{ institution.name}}" src="{{ institution.logo_url}}">
             </a>
         </div>
