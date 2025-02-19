@@ -170,98 +170,73 @@ Contact us at: m.popovic@tudelft.nl
 
 <div id="program-table">
     <div class="program-row">
-        <div>08:45 AM</div>
-        <div>Welcome message and overview of the workshop</div>
+        <div>08:15 AM</div>
+        <div>Welcome message</div>
         <div></div>
     </div>
     <div class="program-row">
-        <div>09:00 AM</div>
-        <div>TBD</div>
-        <div>Martin Saska</div>
-    </div>
-    <div class="program-row">
-        <div>09:25 AM</div>
-        <div>Intelligent Data-Centric Approaches to UAV Sensing</div>
-        <div>Antonella Barišić Kulaš</div>
+        <div>08:30 AM</div>
+        <div>Sensing</div>
+        <div></div>
     </div>
     <div class="program-row">
         <div>09:50 AM</div>
-        <div>Spotlight Talks</div>
+        <div>Poster spotlight talks</div>
         <div></div>
     </div>
     <div class="program-row">
         <div>10:00 AM</div>
-        <div>Coffee Break and Posters</div>
+        <div>Coffee break and posters</div>
         <div></div>
     </div>
     <div class="program-row">
         <div>10:30 AM</div>
-        <div>TBD</div>
-        <div>Tara Javidi</div>
-    </div>
-    <div class="program-row">
-        <div>10:55 AM</div>
-        <div>Multi-scale and multi-objective informative planning</div>
-        <div>Jen Jen Chung</div>
-    </div>
-    <div class="program-row">
-        <div>11:20 AM</div>
-        <div>Autonomous gas source search using information-theoretic and reinforcement learning approaches in uncertain environments</div>
-        <div>Hyondong Oh</div>    
-    </div>
-    <div class="program-row">
-        <div>11:45 AM</div>
-        <div>TBD</div>
-        <div>Nare Karapetyan</div>
-    </div>
-    <div class="program-row">
-        <div>12:10 PM</div>
-        <div>Lunch</div>
+        <div>Information theory</div>
         <div></div>
     </div>
     <div class="program-row">
-        <div>01:15 PM</div>
-        <div>Learning for Active Perception and Active Perception for Robot Learning</div>
-        <div>Lukas Schmid</div>    
-    </div>
-    <div class="program-row">
-        <div>01:40 PM</div>
-        <div>TBD</div>
-        <div>Marco Hutter</div>
-    </div>
-    <div class="program-row">
-        <div>02:05 PM</div>
-        <div>Spotlight Talks</div>
+        <div>11:00 AM</div>
+        <div>Planning</div>
         <div></div>
     </div>
     <div class="program-row">
-        <div>02:15 PM</div>
-        <div>Coffee Break and Posters</div>
+        <div>12:20 PM</div>
+        <div>Poster spotlight talks</div>
         <div></div>
     </div>
     <div class="program-row">
-        <div>02:45 PM</div>
-        <div>Learning and control-based active perception over continuous SE(3) trajectories</div>
-        <div>Shumon Koga</div>
-    </div>
-    <div class="program-row">
-        <div>03:10 PM</div>
-        <div>TBD</div>
-        <div>Ali-akbar Agha-mohammadi</div>
-    </div>
-    <div class="program-row">
-        <div>03:35 PM</div>
-        <div>Break</div>
+        <div>12:30 PM</div>
+        <div>Lunch break and posters</div>
         <div></div>
     </div>
     <div class="program-row">
-        <div>03:45 PM</div>
-        <div>Panel Discussion</div>
+        <div>02:00 PM</div>
+        <div>Mapping</div>
+        <div></div>    
+    </div>
+    <div class="program-row">
+        <div>02:50 PM</div>
+        <div>Poster spotlight talks</div>
         <div></div>
     </div>
     <div class="program-row">
-        <div>04:45 PM</div>
-        <div>Closing Remarks</div>
+        <div>03:00 PM</div>
+        <div>Coffee break and posters</div>
+        <div></div>
+    </div>
+    <div class="program-row">
+        <div>03:30 PM</div>
+        <div>Panel discussion</div>
+        <div></div>    
+    </div>
+    <div class="program-row">
+        <div>04:30 PM</div>
+        <div>Industry</div>
+        <div></div>
+    </div>
+    <div class="program-row">
+        <div>05:30 PM</div>
+        <div>Closing remarks</div>
         <div></div>
     </div>
 </div>
